@@ -1,5 +1,5 @@
 Hi,
-I am Akul, a Software Engineer, particularly been working in the SaaS market for couple of years. I enjoy python, elixir, javascript, kotlin, little bit of C.
+I am a Software Engineer, particularly been working in the SaaS market for couple of years. I enjoy python, elixir, javascript, kotlin, little bit of C.
 My interests are in Data & ML Engineering, particularly how to realize supervised models. I enjoy building data driven solutions.
 
 Please enjoy my self-portrait for your leisure.
