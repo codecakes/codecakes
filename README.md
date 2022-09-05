@@ -2,7 +2,7 @@ Hi,
 I am a Software Engineer, particularly been working in the SaaS market for couple of years. I enjoy python, elixir, javascript, kotlin, little bit of C.
 My interests are in Data & ML Engineering, particularly how to realize supervised models. I enjoy building data driven solutions.
 
-Please enjoy my self-portrait for your leisure.
+Please enjoy my self-portrait for your leisure. When you're done, get to the [gist of it here](https://gist.github.com/codecakes)
 
 
 ```txt                               .         
