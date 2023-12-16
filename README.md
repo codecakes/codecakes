@@ -1,7 +1,9 @@
 
 # Akul Mat
 
-[akulmat@proton.me](mailto:akulmat@proton.me) [codecakes](https://github.com/codecakes) [akulmat](https://www.linkedin.com/in/akulmat/) [xcov19.dev](https://xcov19.dev/)  
+[Email](mailto:akulmat@proton.me) [Github](https://github.com/codecakes) [LinkedIn](https://www.linkedin.com/in/akulmat/) [Newsletter](https://xcov19.dev/) [about me](https://about.me/akulmat/) 
+
+[Craft Thoughtful Data driven Low/No-Code for Your App, ERP, CRM, MVPs](https://www.upwork.com/agencies/1691484907823132672/)
 
 
 ## Skills
