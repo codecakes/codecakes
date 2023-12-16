@@ -20,7 +20,7 @@
 
 ## Experience
 
-**Executive Secretary, Board of Director**
+**Founder, Opensource Project**
 
 My Health Connect Society
 
