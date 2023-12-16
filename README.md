@@ -24,7 +24,7 @@
 
 My Health Connect Society
 
--   Developed healthcare recommendation model using Pandas and Looker; reduced patient consultation times.
+-   Developed healthcare recommendation model using Pandas, Sklearn; reduced patient consultation times by 45 minutes.
 
 **Associate Engineering Manager**
 
