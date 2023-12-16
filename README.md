@@ -1,10 +1,8 @@
 
 # Akul Mat
 
-[Email](mailto:akulmat@proton.me) [Github](https://github.com/codecakes) [LinkedIn](https://www.linkedin.com/in/akulmat/) [Newsletter](https://xcov19.dev/) [about me](https://about.me/akulmat/) 
-
-[Craft Thoughtful Data driven Low/No-Code MVP](https://codecartel.carrd.co)
-
+| [Email](mailto:akulmat@proton.me) | [Github](https://github.com/codecakes) | [LinkedIn](https://www.linkedin.com/in/akulmat/) | [Newsletter](https://xcov19.dev/) | [Contract](https://codecartel.carrd.co) | [About me](https://about.me/akulmat/) |
+|---|---|---|---|---|---|
 
 ## Skills
 
