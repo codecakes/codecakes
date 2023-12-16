@@ -1,5 +1,5 @@
 
-# Akul Mathur
+# Akul Mat
 
 [akulmat@proton.me](mailto:akulmat@proton.me) [codecakes](https://github.com/codecakes) [akulmat](https://www.linkedin.com/in/akulmat/) [xcov19.dev](https://xcov19.dev/)  
 
