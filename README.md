@@ -3,6 +3,8 @@
 
 | [Email](mailto:akulmat@proton.me) | [Github](https://github.com/codecakes) | [LinkedIn](https://www.linkedin.com/in/akulmat/) | [Newsletter](https://xcov19.dev/) | [Contract](https://codecartel.carrd.co) | [About me](https://about.me/akulmat/) |
 
+Your Partner in software design, EDA, data & analytical research, business insights visualization & crafting Data-, LLM/ Prompt- driven solutions.
+
 ## Skills
 
 -   **Python, Django, FastAPI, Docker, Domain-Driven Design (DDD)**
