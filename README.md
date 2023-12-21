@@ -3,7 +3,8 @@
 
 | [Email](mailto:akulmat@proton.me) | [Github](https://github.com/codecakes) | [LinkedIn](https://www.linkedin.com/in/akulmat/) | [Newsletter](https://xcov19.dev/) | [Contract](https://codecartel.carrd.co) | [About me](https://about.me/akulmat/) |
 
-Your Partner in software design, EDA, data & analytical research, business insights visualization & crafting Data-, LLM/ Prompt- driven solutions.
+Engineering Manager. Klarna | Momox | Xoogler
+Software design, EDA, data & analytical research, business insights visualization & crafting Data-, LLM/ Prompt- driven solutions.
 
 ## Skills
 
@@ -17,7 +18,28 @@ Your Partner in software design, EDA, data & analytical research, business insig
     
 
 -   **Tableau, Pandas, Seaborn, Sklearn, Looker**
-    
+
+## Sample Portfolio
+
+| **Project** |
+|--|
+| [Non-commercial Opensource version of Blockchain Neo Banking framework using Colored Coins COLU SDK](https://github.com/codecakes/etksite) |
+| [Data sourcing scraper for active cyclones]([Title](https://github.com/codecakes/active-cyclone-crawl)) |
+| [My Covid Connect](https://github.com/Xcov19/mycovidconnect)|
+| [Health facility registrations](https://github.com/Xcov19/registrations) |
+
+| **Visualizations for Reports** |
+|--|
+| [Healthcare facilities distribution India]([Title](https://public.tableau.com/app/profile/akul.mathur/viz/facilties_geo_care_type_breakup_/Story1)) |
+| [Seoul Bike Rental Data]([Title](https://public.tableau.com/app/profile/akul.mathur/viz/SeoulBikeRental2018Usage/Dashboard2)) |
+| [US Lightning Strike Data](https://public.tableau.com/app/profile/akul.mathur/viz/lightningstrikesanalysisUS/Strikesacrossregions)
+
+| **Articles** |
+|--|
+| [State Of Indian Healthcare Series](https://xcov19.dev/p/state-of-healthcare-an-overview) |
+| [Using Kubernetes, Google Firestore in GKE to orchestrate Scrapers using Scrapy](https://faun.pub/using-kubernetes-google-firestore-in-gke-to-orchestrate-scrapers-using-scrapy-pt-1-cdf7bb651341) |
+| [Google AppEngine & Bazel: How to deploy to appengine flexible using bazel and google cloud deploy](https://faun.pub/google-appengine-bazel-how-to-deploy-to-appengine-flexible-using-bazel-and-google-cloud-deploy-469c0c64bc35)|
+
 
 ## Experience
 
@@ -71,3 +93,7 @@ Tradeboox India Pvt Ltd
 
 EarthBenign PBC, Austin,TX
 -   Built the multi-tiered architecture for EarthBenign blockchain based payment system.
+
+
+
+
