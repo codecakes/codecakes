@@ -1,7 +1,7 @@
 
 # Akul Mat
 
-| [Email](mailto:akulmat@proton.me) | [Github](https://github.com/codecakes) | [LinkedIn](https://www.linkedin.com/in/akulmat/) | [Newsletter](https://xcov19.dev/) | [Contract](https://codecartel.carrd.co) | [About me](https://about.me/akulmat/) |
+| [Github Resume](https://resume.github.io/?codecakes) | [Email](mailto:akulmat@proton.me) | [Github](https://github.com/codecakes) | [LinkedIn](https://www.linkedin.com/in/akulmat/) | [Newsletter](https://xcov19.dev/) | [Contract](https://codecartel.carrd.co) | [About me](https://about.me/akulmat/) |
 
 Engineering Manager. Klarna | Momox | Xoogler
 Software design, EDA, data & analytical research, business insights visualization & crafting Data-, LLM/ Prompt- driven solutions.
