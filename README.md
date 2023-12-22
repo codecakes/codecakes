@@ -5,6 +5,11 @@
 
 Founded: [My Health Connect](https://www.myhealthconnect.in)
 
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/reachout-5/30min" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
 
 Engineering Manager. Klarna | Momox | Xoogler
 Software design, EDA, data & analytical research, business insights visualization & crafting Data-, LLM/ Prompt- driven solutions.
