@@ -3,16 +3,11 @@
 
 | [Github Resume](https://resume.github.io/?codecakes) | [Email](mailto:akulmat@proton.me) | [Github](https://github.com/codecakes) | [LinkedIn](https://www.linkedin.com/in/akulmat/) | [Newsletter](https://xcov19.dev/) | [Contract](https://codecartel.carrd.co) | [About me](https://about.me/akulmat/) |
 
-Founded: [My Health Connect](https://www.myhealthconnect.in)
-
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/reachout-5/30min" style="min-width:320px;height:700px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
 
 
 Engineering Manager. Klarna | Momox | Xoogler
 Software design, EDA, data & analytical research, business insights visualization & crafting Data-, LLM/ Prompt- driven solutions.
+
 
 ## Skills
 
@@ -27,6 +22,12 @@ Software design, EDA, data & analytical research, business insights visualizatio
 
 -   **Tableau, Pandas, Seaborn, Sklearn, Looker**
 
+
+| | |
+| -- | -- |
+| Founded [My Health Connect](https://www.myhealthconnect.in) | [Schedule time with me](https://calendly.com/reachout-5/30min) |
+| | |
+
 ## Sample Portfolio
 
 | **Project** |
@@ -35,18 +36,22 @@ Software design, EDA, data & analytical research, business insights visualizatio
 | [Data sourcing scraper for active cyclones](https://github.com/codecakes/active-cyclone-crawl) |
 | [My Covid Connect](https://github.com/Xcov19/mycovidconnect) |
 | [Health facility registrations](https://github.com/Xcov19/registrations) |
+| |
+
 
 | **Visualizations for Reports** |
 |--|
 | [Healthcare facilities distribution India](https://public.tableau.com/app/profile/akul.mathur/viz/facilties_geo_care_type_breakup_/Story1) |
 | [Seoul Bike Rental Data](https://public.tableau.com/app/profile/akul.mathur/viz/SeoulBikeRental2018Usage/Dashboard2) |
 | [US Lightning Strike Data](https://public.tableau.com/app/profile/akul.mathur/viz/lightningstrikesanalysisUS/Strikesacrossregions)
+| |
 
 | **Articles** |
 |--|
 | [State Of Indian Healthcare Series](https://xcov19.dev/p/state-of-healthcare-an-overview) |
 | [Using Kubernetes, Google Firestore in GKE to orchestrate Scrapers using Scrapy](https://faun.pub/using-kubernetes-google-firestore-in-gke-to-orchestrate-scrapers-using-scrapy-pt-1-cdf7bb651341) |
 | [Google AppEngine & Bazel: How to deploy to appengine flexible using bazel and google cloud deploy](https://faun.pub/google-appengine-bazel-how-to-deploy-to-appengine-flexible-using-bazel-and-google-cloud-deploy-469c0c64bc35)|
+| |
 
 
 ## Experience
