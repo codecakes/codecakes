@@ -30,20 +30,20 @@ Software design, EDA, data & analytical research, business insights visualizatio
 
 ## Sample Portfolio
 
+| **Visualizations for Reports** |
+|--|
+| [Exploratory Analysis for New York Taxis & Limousine Fares](https://docs.google.com/presentation/d/1Of_dqD8_o3nGewSGVSGGa2kjSQXbdmQRp7yCZJbJqfY/edit?usp=sharing) |
+| [Healthcare facilities distribution India](https://public.tableau.com/app/profile/akul.mathur/viz/facilties_geo_care_type_breakup_/Story1) |
+| [Seoul Bike Rental Data](https://public.tableau.com/app/profile/akul.mathur/viz/SeoulBikeRental2018Usage/Dashboard2) |
+| [US Lightning Strike Data](https://public.tableau.com/app/profile/akul.mathur/viz/lightningstrikesanalysisUS/Strikesacrossregions)
+| |
+
 | **Project** |
 |--|
 | [Non-commercial Opensource version of Blockchain Neo Banking framework using Colored Coins COLU SDK](https://github.com/codecakes/etksite) |
 | [Data sourcing scraper for active cyclones](https://github.com/codecakes/active-cyclone-crawl) |
 | [My Covid Connect](https://github.com/Xcov19/mycovidconnect) |
 | [Health facility registrations](https://github.com/Xcov19/registrations) |
-| |
-
-
-| **Visualizations for Reports** |
-|--|
-| [Healthcare facilities distribution India](https://public.tableau.com/app/profile/akul.mathur/viz/facilties_geo_care_type_breakup_/Story1) |
-| [Seoul Bike Rental Data](https://public.tableau.com/app/profile/akul.mathur/viz/SeoulBikeRental2018Usage/Dashboard2) |
-| [US Lightning Strike Data](https://public.tableau.com/app/profile/akul.mathur/viz/lightningstrikesanalysisUS/Strikesacrossregions)
 | |
 
 | **Articles** |
