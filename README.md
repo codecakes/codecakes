@@ -32,6 +32,7 @@ Software design, EDA, data & analytical research, business insights visualizatio
 
 | **Visualizations for Reports** |
 |--|
+| [A New York Cab Story](https://public.tableau.com/shared/TZRYWJ2P7?:display_count=n&:origin=viz_share_link) |
 | [Exploratory Analysis for New York Taxis & Limousine Fares](https://docs.google.com/presentation/d/1Of_dqD8_o3nGewSGVSGGa2kjSQXbdmQRp7yCZJbJqfY/edit?usp=sharing) |
 | [Healthcare facilities distribution India](https://public.tableau.com/app/profile/akul.mathur/viz/facilties_geo_care_type_breakup_/Story1) |
 | [Seoul Bike Rental Data](https://public.tableau.com/app/profile/akul.mathur/viz/SeoulBikeRental2018Usage/Dashboard2) |
