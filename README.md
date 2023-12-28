@@ -49,6 +49,7 @@ Software design, EDA, data & analytical research, business insights visualizatio
 
 | **Articles** |
 |--|
+| [Health Coverage & Revisiting National Health Survey](https://xcov19.dev/p/transforming-indian-healthcare-pt-881) |
 | [State Of Indian Healthcare Series](https://xcov19.dev/p/state-of-healthcare-an-overview) |
 | [Using Kubernetes, Google Firestore in GKE to orchestrate Scrapers using Scrapy](https://faun.pub/using-kubernetes-google-firestore-in-gke-to-orchestrate-scrapers-using-scrapy-pt-1-cdf7bb651341) |
 | [Google AppEngine & Bazel: How to deploy to appengine flexible using bazel and google cloud deploy](https://faun.pub/google-appengine-bazel-how-to-deploy-to-appengine-flexible-using-bazel-and-google-cloud-deploy-469c0c64bc35)|
