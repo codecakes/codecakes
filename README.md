@@ -1,7 +1,9 @@
 
-# Akul Mat
+# Akul Mat Developer Profile
 
-| [Github Resume](https://resume.github.io/?codecakes) | [Email](mailto:akulmat@proton.me) | [Github](https://github.com/codecakes) | [LinkedIn](https://www.linkedin.com/in/akulmat/) | [Newsletter](https://xcov19.dev/) | [Contract](https://luxtelos.work) | [About me](https://about.me/akulmat/) | [Book a Call](https://book.morgen.so/akurnya920/jxyv2w) |
+| [Email](mailto:akulmat@proton.me) | [LinkedIn](https://www.linkedin.com/in/akulmat/) | [Github Resume](https://resume.github.io/?codecakes) |
+
+| [Code Showcase](https://exercism.org/profiles/codecakes/solutions) | [Newsletter](https://xcov19.dev/) | [Github](https://github.com/codecakes) | [Contract](https://luxtelos.work) | [About me](https://about.me/akulmat/) | [Book a Call](https://book.morgen.so/akurnya920/jxyv2w) |
 
 
 
@@ -11,7 +13,7 @@ Software design, EDA, data & analytical research, business insights visualizatio
 
 ## Skills
 
--   **Python, Django, FastAPI, Docker, Domain-Driven Design (DDD)**
+-   **Python, Django, FastAPI, Docker, Elixir, Domain-Driven Design (DDD)**
     
 
 -   **Cloud Computing (Google Cloud, AWS)**
