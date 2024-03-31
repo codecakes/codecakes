@@ -3,7 +3,9 @@
 
 | [Email](mailto:akulmat@proton.me) | [LinkedIn](https://www.linkedin.com/in/akulmat/) | [Github Resume](https://resume.github.io/?codecakes) |
 
-| [Code Showcase](https://exercism.org/profiles/codecakes/solutions) | [Newsletter](https://xcov19.dev/) | [Github](https://github.com/codecakes) | [Contract](https://luxtelos.work) | [About me](https://about.me/akulmat/) | [Book a Call](https://book.morgen.so/akurnya920/jxyv2w) |
+| [Code Playground Showcase](https://exercism.org/profiles/codecakes/solutions) | [Github Gists](https://gist.github.com/codecakes) | [Github](https://github.com/codecakes) |
+
+| [Newsletter](https://xcov19.dev/) | [Contract](https://luxtelos.work) | [About me](https://about.me/akulmat/) | [Book a Call](https://book.morgen.so/akurnya920/jxyv2w) |
 
 
 
