@@ -34,6 +34,18 @@ Software design, EDA, data & analytical research, business insights visualizatio
 
 ## Sample Portfolio
 
+| **Github Contributions** |
+|--|
+| [Bazel App engine build rules fix](https://github.com/bazelbuild/rules_appengine/pull/114) |
+| [Micropyramid review](https://github.com/MicroPyramid/Django-CRM/pull/396/files) |
+| [UNICEF's Humanitarian Cash Transfer for UN Agencies in Africa](https://github.com/search?q=repo%3Aunicef%2Fhct-mis+author%3Acodecakes&type=pullrequests) |
+| [IFFT meets Nagios before OpenTelemetry was a thing](https://github.com/search?q=repo%3Anoushi%2Fcloudroutes-service+author%3Acodecakes&type=pullrequests) |
+| [My Covid Connect](https://github.com/search?q=repo%3AXcov19%2Fmycovidconnect%20author%3Acodecakes&type=issues) |
+| [A scraper for bangalore hospital beds](https://github.com/codecakes/beds) |
+| [Deprecated neo-banking framework on blockchain](https://github.com/codecakes/etksite) |
+| [Quotations to parse](https://github.com/codecakes/simple_scrapy/) |
+
+
 | **Visualizations for Reports** |
 |--|
 | [A New York Cab Story](https://public.tableau.com/shared/TZRYWJ2P7?:display_count=n&:origin=viz_share_link) |
@@ -62,57 +74,15 @@ Software design, EDA, data & analytical research, business insights visualizatio
 
 ## Experience
 
-**Founder, Opensource Project**
-
-My Health Connect Society
-
 -   Developed healthcare recommendation model using Pandas, Sklearn; reduced patient consultation times by 45 minutes.
-
-**Associate Engineering Manager**
-
-Klarna Bank AB
-
 -   Led Klarna credit data correction for 17 million nordic customers using pandas, postgresql that affected underwriting and stakeholders.
 -   Annual performance review and competency management.
-
-**Lead Software Engineer**
-
-Momox SE
-
 -   Engineered greenfield omnichannel e-commerce solution; utilized Domain-Driven Design for serverless & decoupled marketplace architecture.
 -   Team management of Solaris e-commerce and Solaris books & media team comprising of 15 members.
-
-**Lead Product Engineer**
-
-MBO Partners
-
--   Led backend development for Connect marketplace launch in 7 months.
+-   Led backend development for MBO Connect marketplace launch in 7 months.
 -   Steered the migration of legacy systems to microservices from django drf to fastapi.
-
-**Senior Software Engineer**
-
-Kellton
-
 -   Backend development with django, graphene/graphql, testing for clients such as UN HCT, Alpha Blue Ocean financial investment platform, Blackrock and its partner projects on behalf of Tivix.
-
-**Associate Consultant**
-
-Google
-
 -   Fullstack development, release management and maintainence of large-scale adtech projects and ETL data processing systems using Standard SQL, Python, BigQuery, Polymer, gRPC, Borg Configuration Language.
-
-**Software Developer**
-
-Tradeboox India Pvt Ltd
-
 -   Developed tradeboox partner management system using elixir and phoenix for SME supply chain. Built inhouse SSO layer using OAuth2 using poison library.
 -   Aggregated ~700,000 business records through scraping marketplaces for lead generation using python & scrapy.
-
-**Jr. Enterprise Architect & Software Developer**
-
-EarthBenign PBC, Austin,TX
 -   Built the multi-tiered architecture for EarthBenign blockchain based payment system.
-
-
-
-
